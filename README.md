@@ -1,6 +1,6 @@
 # Putimgur
 
-TODO: Write a gem description
+A simple CLI interface for adding images to imgur.com
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+putimgur /path/to/image.jpg
 
 ## Contributing
 
